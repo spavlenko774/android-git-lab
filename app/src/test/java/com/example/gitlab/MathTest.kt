@@ -10,4 +10,9 @@ class MathTest {
     {
         assertEquals(2, 1+1)
     }
+
+    fun subtractTest()
+    {
+        assertEquals(2, 4-2)
+    }
 }
