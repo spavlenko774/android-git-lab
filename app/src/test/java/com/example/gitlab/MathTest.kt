@@ -16,4 +16,10 @@ class MathTest {
     {
         assertEquals(2, 4-2)
     }
+
+    @Test
+    fun multiplyTest()
+    {
+        assertEquals(4, 2*2)
+    }
 }
